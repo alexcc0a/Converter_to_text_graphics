@@ -1,0 +1,2 @@
+* Простое маленькое изображение для отладки: https://raw.githubusercontent.com/netology-code/java-diplom/main/pics/simple-test.png
+* Другое изображение для демонстрации: https://i.ibb.co/6DYM05G/edu0.jpg
