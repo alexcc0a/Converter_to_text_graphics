@@ -1,7 +1,8 @@
 # Converter to text graphics.
 
 An application that downloads images from a URL and converts the image into text graphics (that is, text made up of different characters that together look like an image). Here is an example of his work. The picture on it is text made up of small characters:
-<img width="811" alt="Screenshot 2024-08-11 at 11 53 34" src="https://github.com/user-attachments/assets/e69de0cd-dfd7-4a19-83aa-41a98cd38800">
+<img width="811" alt="Screenshot 2024-08-11 at 11 53 34" src="https://github.com/user-attachments/assets/28ffeec0-e6e8-4dd2-9397-0c9e359c5b00">
+
 
 
 ## Project structure:
